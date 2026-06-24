@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shiva-sdk"
+version = "0.1.0"
+description = "Open client for the Shiva AI-governance API (zero dependencies)."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "Mangomind" }]
+keywords = ["ai", "governance", "guardrails", "agents", "audit", "security"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Security",
+]
+dependencies = []   # zero dependencies, by design
+
+[project.urls]
+Homepage = "https://github.com/Mangomindai/shiva-sdk"
+Issues = "https://github.com/Mangomindai/shiva-sdk/issues"
+
+[tool.setuptools.packages.find]
+include = ["shiva*"]
