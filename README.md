@@ -1,5 +1,10 @@
 # Shiva SDK (Python)
 
+The only guardrail for AI agents you don't have to trust.
+Every action is sealed into a tamper-proof record — anchored to a public log, verifiable by you, alterable by no one. Not even us.
+
+
+
 The **open client** for [Shiva](https://shiva-353779617017.europe-west2.run.app) — an AI-governance layer that judges your agent's actions (ALLOW / BLOCK / REVIEW) and seals every decision into a tamper-evident audit chain.
 
 > **Why is this client open but the engine isn't?**
