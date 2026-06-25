@@ -1,7 +1,7 @@
 # Shiva SDK (Python)
 
-The only guardrail for AI agents you don't have to trust.
-Every action is sealed into a tamper-proof record — anchored to a public log, verifiable by you, alterable by no one. Not even us.
+**The only guardrail for AI agents you don't have to trust.
+Every action is sealed into a tamper-proof record — anchored to a public log, verifiable by you, alterable by no one. Not even us.**
 
 
 
