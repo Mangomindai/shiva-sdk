@@ -87,11 +87,19 @@ The **open client** for [Shiva](https://shiva-353779617017.europe-west2.run.app)
 
 ## Install
 
+## Installation
+
+Install directly from source:
+
 ```bash
-# Install straight from source https://pypi.org/project/shiva-sdk/
 pip install git+https://github.com/Mangomindai/shiva-sdk.git
 ```
 
+Or install from PyPI:
+
+```bash
+pip install shiva-sdk
+```
 ---
 
 ## Quickstart
