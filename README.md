@@ -17,6 +17,7 @@ That's not a hypothetical — it's what happens when agents act without governan
 **Shiva fixes this.** One API call before each action. Every decision sealed into a cryptographic chain you can verify yourself.
 
 → **[shivaprotocol.com](https://shivaprotocol.com)** — get your free API key, no credit card required.
+https://shiva-353779617017.europe-west2.run.app/ the upper one going to 24 hours before it starts working . nameserver trasfered
 
 ---
 
