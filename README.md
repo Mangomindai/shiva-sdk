@@ -1,5 +1,5 @@
 
-markdown# Shiva SDK (Python)
+## Shiva SDK (Python)
 
 [![PyPI](https://img.shields.io/badge/install-git%20source-blue)](https://github.com/Mangomindai/shiva-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
