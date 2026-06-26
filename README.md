@@ -1,4 +1,4 @@
-Here's the full enhanced README — paste this into Claude Code Desktop and tell it to replace README.md and push to GitHub:
+
 markdown# Shiva SDK (Python)
 
 [![PyPI](https://img.shields.io/badge/install-git%20source-blue)](https://github.com/Mangomindai/shiva-sdk)
