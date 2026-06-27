@@ -9,7 +9,7 @@
 **The only guardrail for AI agents you don't have to trust.
 Every action is sealed into a tamper-proof record — anchored to a public log, verifiable by you, alterable by no one. Not even us.**
 
-> ⚠️ **The EU AI Act's high-risk obligations take effect August 2, 2026.**
+## ⚠️ **The EU AI Act's high-risk obligations take effect August 2, 2026.**
 > Ungoverned agents are a liability now, not later.
 
 Your AI agent just deleted 10,000 user records at 3am. No approval. No audit trail. No way to prove what it decided or why. That's not a hypothetical — it's what happens when agents act without governance.
