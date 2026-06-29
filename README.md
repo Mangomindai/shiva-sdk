@@ -16,7 +16,7 @@ Your AI agent just deleted 10,000 user records at 3am. No approval. No audit tra
 
 **Shiva fixes this.** One API call before each action. Every decision sealed into a cryptographic chain you can verify yourself.
 
-> 🌐 **[shivaprotocol.com](https://shivaprotocol.com)** *(DNS propagating — if this doesn't load yet, use [https://shiva-353779617017.europe-west2.run.app](https://shiva-353779617017.europe-west2.run.app) directly)*
+> use [https://shiva-353779617017.europe-west2.run.app](https://shiva-353779617017.europe-west2.run.app) directly)*
 > Get your free API key — no credit card required.
 
 ---
